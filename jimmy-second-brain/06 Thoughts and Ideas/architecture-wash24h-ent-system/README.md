@@ -36,6 +36,7 @@ Projects building this framework:
 - [[Project Overview (Identity)]] — implements [[01-keycloak-setup]]; the spine service every app depends on
 - [[Project Overview (FinOps)]] — first end-to-end consumer of the framework (Keycloak + JWT + capability scopes + BFF)
 - [[Project Overview (Jetx-Lakehouse)]] — data warehouse consuming from every source system
+- [[Project Overview (Jetx-Tickets)]] — new app on the framework, scope pending
 
 ## Status
 
