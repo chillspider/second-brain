@@ -67,6 +67,14 @@ CLAUDE.md                        ← this file (for Claude)
 
 ---
 
+### 4. Jetx-Tickets
+**Goal:** *(Pending interview — fill in Project Overview.)*
+**Why it exists:** *(Pending interview.)*
+**Key files:** `Project Overview (Jetx-Tickets).md` for goal, outcomes, and open problems. Agent handoff uses `04 Templates/template-new-app-briefing.md`.
+**Start a session:** Read `Project Overview (Jetx-Tickets).md` to orient. Note: this app is being built on the JetX framework — Keycloak + .NET 9 + SvelteKit + PG17. First blocking step is filing a Keycloak client proposal in the Identity project.
+
+---
+
 ---
 
 ## Architecture Alignment (mandatory for every project)

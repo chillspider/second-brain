@@ -415,6 +415,16 @@
       "folder": true,
       "tag": false,
       "property": false
+    },
+    "02 Projects/Jetx-Tickets/Project Overview (Jetx-Tickets).md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "02 Projects/Jetx-Tickets/Principles Found (Jetx-Tickets).md": {
+      "folder": true,
+      "tag": false,
+      "property": false
     }
   },
   "fileIcons": {
@@ -423,7 +433,9 @@
     "02 Projects/Jetx-Lakehouse/Project Overview (Jetx-Lakehouse).md": "emoji:\ud83d\udcb0",
     "02 Projects/Jetx-Lakehouse/Principles Found (Jetx-Lakehouse).md": "emoji:\u2b50",
     "02 Projects/Identity/Project Overview (Identity).md": "emoji:\ud83d\udcb0",
-    "02 Projects/Identity/Principles Found (Identity).md": "emoji:\u2b50"
+    "02 Projects/Identity/Principles Found (Identity).md": "emoji:\u2b50",
+    "02 Projects/Jetx-Tickets/Project Overview (Jetx-Tickets).md": "emoji:\ud83d\udcb0",
+    "02 Projects/Jetx-Tickets/Principles Found (Jetx-Tickets).md": "emoji:\u2b50"
   },
   "fileColors": {},
   "folderIcons": {},

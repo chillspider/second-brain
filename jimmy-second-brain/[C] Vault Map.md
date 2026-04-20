@@ -35,6 +35,11 @@ Consolidate financial data into a single source of truth — reconciliation, VAT
 Medallion data warehouse (Bronze → Silver → Gold) feeding FinOps and BI.
 - [[Project Overview (Jetx-Lakehouse)]] · [[Current Architecture (Jetx-Lakehouse)]] · [[Roadmap (Jetx-Lakehouse)]] · [[Decision Log (Jetx-Lakehouse)]] · [[Principles Found (Jetx-Lakehouse)]]
 
+### [[Project Overview (Jetx-Tickets)|Jetx-Tickets]]
+New app on the JetX framework (Keycloak + .NET 9 + SvelteKit). Scope pending interview.
+- [[Project Overview (Jetx-Tickets)]] · [[Principles Found (Jetx-Tickets)]]
+- Agent handoff: [[template-new-app-briefing]]
+
 ---
 
 ## Enterprise Framework (in `06 Thoughts and Ideas/architecture-wash24h-ent-system/`)
