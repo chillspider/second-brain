@@ -184,8 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4f88c991823b32c",
+  "active": "113a92ae9a0141b4",
   "lastOpenFiles": [
+    "jimmy-second-brain/02 Projects/Jetx-Tickets",
+    "jimmy-second-brain/04 Templates/template-new-app-briefing.md",
+    "jimmy-second-brain/04 Templates/template-new-app-briefing.md.tmp.59396.1776674539762",
     "jimmy-second-brain/02 Projects/FinOps/finops-deep-spec.md",
     "jimmy-second-brain/02 Projects/Identity/Lark OIDC Shim — Design Spec.md",
     "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/GOLD_LAYER_REVIEW.md",
@@ -218,9 +221,6 @@
     "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/EXPORT_AUTOMATION.md",
     "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/DECISION_LOG.md",
     "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/BRONZE_LAYER_DESIGN.md",
-    "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/ARCHITECTURE.md",
-    "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/finops-deep-spec.md",
-    "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references",
-    "jimmy-second-brain/02 Projects/Jetx-Lakehouse/New folder"
+    "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references"
   ]
 }
