@@ -11,10 +11,14 @@
             "id": "34733f8a79d86f9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "jimmy-second-brain/02 Projects/Jetx-Tickets/Lark WebSocket Transport — Design Spec.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lark WebSocket Transport — Design Spec"
             }
           }
         ]
@@ -182,6 +186,7 @@
   },
   "active": "34733f8a79d86f9d",
   "lastOpenFiles": [
+    "jimmy-second-brain/02 Projects/Jetx-Tickets/Lark WebSocket Transport — Design Spec.md",
     "jimmy-second-brain/02 Projects/Identity/Lark OIDC Shim — Design Spec.md",
     "jimmy-second-brain/02 Projects/Jetx-Tickets/Reusable Admin CRUD + TanStack Query — Design.md",
     "jimmy-second-brain/02 Projects/Jetx-Tickets/Principles Found (Jetx-Tickets).md",
@@ -216,7 +221,6 @@
     "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/METABASE_SETUP.md",
     "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/initial-plan.md",
     "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/GOLD_LAYER_COMPLETE_SPEC.md",
-    "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/FINAL_SETUP_SUMMARY.md",
-    "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/EXPORT_AUTOMATION.md"
+    "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/FINAL_SETUP_SUMMARY.md"
   ]
 }
