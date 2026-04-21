@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e482a1781ebe7912",
+        "id": "0fb3a07e924bebd0",
         "type": "tabs",
         "children": [
           {
-            "id": "e4f88c991823b32c",
+            "id": "34733f8a79d86f9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "jimmy-second-brain/02 Projects/Identity/Lark OIDC Shim — Design Spec.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lark OIDC Shim — Design Spec"
+              "title": "New tab"
             }
           }
         ]
@@ -184,15 +180,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "113a92ae9a0141b4",
+  "active": "34733f8a79d86f9d",
   "lastOpenFiles": [
+    "jimmy-second-brain/02 Projects/Identity/Lark OIDC Shim — Design Spec.md",
+    "jimmy-second-brain/02 Projects/Jetx-Tickets/Reusable Admin CRUD + TanStack Query — Design.md",
     "jimmy-second-brain/02 Projects/Jetx-Tickets/Principles Found (Jetx-Tickets).md",
     "jimmy-second-brain/02 Projects/Jetx-Tickets/Project Overview (Jetx-Tickets).md",
     "jimmy-second-brain/02 Projects/Jetx-Tickets",
     "jimmy-second-brain/04 Templates/template-new-app-briefing.md",
     "jimmy-second-brain/04 Templates/template-new-app-briefing.md.tmp.59396.1776674539762",
     "jimmy-second-brain/02 Projects/FinOps/finops-deep-spec.md",
-    "jimmy-second-brain/02 Projects/Identity/Lark OIDC Shim — Design Spec.md",
     "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/GOLD_LAYER_REVIEW.md",
     "jimmy-second-brain/02 Projects/Identity/Principles Found (Identity).md",
     "jimmy-second-brain/02 Projects/Identity/Project Overview (Identity).md",
@@ -220,7 +217,6 @@
     "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/initial-plan.md",
     "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/GOLD_LAYER_COMPLETE_SPEC.md",
     "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/FINAL_SETUP_SUMMARY.md",
-    "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/EXPORT_AUTOMATION.md",
-    "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/DECISION_LOG.md"
+    "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/EXPORT_AUTOMATION.md"
   ]
 }
