@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jimmy-second-brain/06 Thoughts and Ideas/Untitled.md",
+                "file": "jimmy-second-brain/06 Thoughts and Ideas/building-jetx-private-cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "building-jetx-private-cloud"
             }
           }
         ]
@@ -187,7 +187,7 @@
   "active": "34733f8a79d86f9d",
   "lastOpenFiles": [
     "jimmy-second-brain/02 Projects/Jetx-Tickets/Lark WebSocket Transport — Design Spec.md",
-    "jimmy-second-brain/06 Thoughts and Ideas/Untitled.md",
+    "jimmy-second-brain/06 Thoughts and Ideas/building-jetx-private-cloud.md",
     "jimmy-second-brain/02 Projects/Identity/Lark OIDC Shim — Design Spec.md",
     "jimmy-second-brain/02 Projects/Jetx-Tickets/Reusable Admin CRUD + TanStack Query — Design.md",
     "jimmy-second-brain/02 Projects/Jetx-Tickets/Principles Found (Jetx-Tickets).md",
