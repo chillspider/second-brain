@@ -75,6 +75,14 @@ CLAUDE.md                        ← this file (for Claude)
 
 ---
 
+### 5. JetX Tech Vision
+**Goal:** Clearly define the vision of what JetX Platform should be — and what it is.
+**Why it exists:** Holistic documentation providing guard rails and guidelines for every sub-project within the JetX realm. Every future app, every agent-built feature, every architectural decision references this. **Jimmy-driven** — Jimmy is the chief architect; canonical files are owned directly by him.
+**Key files:** `Project Overview (JetX Tech Vision).md` for goal, outcomes, and open problems.
+**Start a session:** Read `Project Overview (JetX Tech Vision).md` to orient. The current work is brain-dumping one of the six output streams (vision/mission, platform/stack, architecture, principles, AI-agent framework, 3-year roadmap) from Jimmy's head into a document. Do not edit canonical files — file `[<AgentCode>] <Kind> — <Topic>.md` input notes instead.
+
+---
+
 ---
 
 ## Architecture Alignment (mandatory for every project)

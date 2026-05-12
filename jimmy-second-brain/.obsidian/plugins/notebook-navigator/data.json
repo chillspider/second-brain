@@ -425,6 +425,16 @@
       "folder": true,
       "tag": false,
       "property": false
+    },
+    "02 Projects/JetX Tech Vision/Project Overview (JetX Tech Vision).md": {
+      "folder": true,
+      "tag": false,
+      "property": false
+    },
+    "02 Projects/JetX Tech Vision/Principles Found (JetX Tech Vision).md": {
+      "folder": true,
+      "tag": false,
+      "property": false
     }
   },
   "fileIcons": {
@@ -435,7 +445,9 @@
     "02 Projects/Identity/Project Overview (Identity).md": "emoji:\ud83d\udcb0",
     "02 Projects/Identity/Principles Found (Identity).md": "emoji:\u2b50",
     "02 Projects/Jetx-Tickets/Project Overview (Jetx-Tickets).md": "emoji:\ud83d\udcb0",
-    "02 Projects/Jetx-Tickets/Principles Found (Jetx-Tickets).md": "emoji:\u2b50"
+    "02 Projects/Jetx-Tickets/Principles Found (Jetx-Tickets).md": "emoji:\u2b50",
+    "02 Projects/JetX Tech Vision/Project Overview (JetX Tech Vision).md": "emoji:\ud83d\udcb0",
+    "02 Projects/JetX Tech Vision/Principles Found (JetX Tech Vision).md": "emoji:\u2b50"
   },
   "fileColors": {},
   "folderIcons": {},
