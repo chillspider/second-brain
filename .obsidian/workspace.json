@@ -11,10 +11,14 @@
             "id": "3cf07c81e47e9622",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "jimmy-second-brain/02 Projects/JetX Tech Vision/[C] 12-Month Workshop — Discussion Questions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "[C] 12-Month Workshop — Discussion Questions"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 577.5019836425781
   },
   "right": {
     "id": "a4203968648a451a",
@@ -182,6 +186,9 @@
   },
   "active": "3cf07c81e47e9622",
   "lastOpenFiles": [
+    "jimmy-second-brain/02 Projects/JetX Tech Vision/[C] 12-Month Workshop — Executive Summary.md",
+    "jimmy-second-brain/02 Projects/JetX Tech Vision/[C] 3-Year Roadmap — Design Spec.md",
+    "jimmy-second-brain/06 Thoughts and Ideas/architecture-wash24h-ent-system/jetx-platform-principles.md",
     "jimmy-second-brain/02 Projects/Jetx-Tickets/Project Overview (Jetx-Tickets).md",
     "jimmy-second-brain/02 Projects/Jetx-Tickets/Principles Found (Jetx-Tickets).md",
     "jimmy-second-brain/06 Thoughts and Ideas/building-jetx-private-cloud.md",
@@ -214,9 +221,6 @@
     "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/SESSION_LOG_2026-01-14.md",
     "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/PROJECT_CONTEXT.md",
     "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/POWERBI_SETUP.md",
-    "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/POWERBI_JOIN_GUIDE.md",
-    "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/METABASE_SETUP.md",
-    "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/initial-plan.md",
-    "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/GOLD_LAYER_COMPLETE_SPEC.md"
+    "jimmy-second-brain/02 Projects/Jetx-Lakehouse/references/POWERBI_JOIN_GUIDE.md"
   ]
 }
